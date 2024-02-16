@@ -6,7 +6,7 @@
 - шрифты ([fonts](https://github.com/ggpwr/ono-tebe-nado/tree/main/fonts));
 - изображения ([images](https://github.com/ggpwr/ono-tebe-nado/tree/main/fonts));
 - стили ([styles](https://github.com/ggpwr/ono-tebe-nado/tree/main/styles));
-- [readme-файл](https://github.com/itsUltraWolf/ono-tebe-nado/blob/main/README.md);
+- [readme-файл](https://github.com/ggpwr/ono-tebe-nado/blob/main/README.md);
 - 
 - html-страница сайта ([index.html](https://github.com/ggpwr/ono-tebe-nado/blob/main/index.html)).
 
