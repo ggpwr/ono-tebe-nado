@@ -293,12 +293,15 @@
     grid-row: 3/span 2;
     grid-column: 2/span 2;
     position: relative;
-    letter-spacing: 0.1px;    
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    letter-spacing: 0.1px;   
 }
 
 .footer{
     position: relative;
-    margin: 18px 25px;
+    margin: 15px 25px;
     display: flex;
     justify-content: space-between;
 }
@@ -306,10 +309,10 @@
 .footer__menu-list{
     list-style: none;
     text-align: center;
+    padding-top: 5px;
     font-size: 18px;
     font-weight: 400;
     padding-left: 35px;
-    padding-top: 5px;
 }
 
 .footer__menu-list-item{
@@ -325,6 +328,7 @@
 }
 
 .footer__social-list-item{
+    display: block;
     height: 48px;
     width: 48px;
 }
