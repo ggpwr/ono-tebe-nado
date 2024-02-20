@@ -100,7 +100,6 @@
 .aligned-text_center{
     text-align: center;
     line-height: 100px;
-    width: 97%;
 }
 
 .aligned-text_right{
@@ -294,7 +293,7 @@
 
 .footer{
     position: relative;
-    margin: 15px 25px;
+    margin: 15px 25px 90px;
     display: flex;
     justify-content: space-between;
 }
