@@ -116,6 +116,7 @@
     margin-top: 135px;
     display: flex;
     align-items: center;
+    white-space: nowrap;
     position: relative;
     gap: 77px;
     z-index: 3;
@@ -140,7 +141,7 @@
     font-size: 22px;
     font-weight: 400;
     font-family: inherit;
-    letter-spacing: 0.3px;
+    letter-spacing: 0.2px;
     text-align: center;
     text-transform: uppercase;
     padding: 12px 30px;
@@ -293,7 +294,7 @@
 
 .footer{
     position: relative;
-    margin: 15px 25px 90px;
+    margin: 15px 25px 80px;
     display: flex;
     justify-content: space-between;
 }
