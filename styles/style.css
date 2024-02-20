@@ -118,7 +118,7 @@
     align-items: center;
     white-space: nowrap;
     position: relative;
-    gap: 77px;
+    gap: 80px;
     z-index: 3;
 }
 
@@ -265,7 +265,7 @@
     width: 240px;
     height: 240px;
     margin-left: 70px;
-    margin-top: 75px;
+    margin-top: 70px;
     grid-row: 1/span 3;
     grid-column: 1/span 1;
     display: grid;
@@ -294,7 +294,7 @@
 
 .footer {
     position: relative;
-    margin: 15px 25px 88px;
+    margin: 15px 25px 90px;
     display: flex;
     justify-content: space-between;
 }
@@ -305,7 +305,7 @@
     text-align: center;
     font-size: 18px;
     font-weight: 400;
-    padding-left: 40px;
+    padding-left: 30px;
 }
 
 .footer__menu-list-item {
